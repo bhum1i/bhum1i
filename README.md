@@ -13,6 +13,6 @@ working towards a career in tech.
 **Tools:** Git, VS Code  
 **Familiar with:** NumPy, Pandas, Matplotlib, scikit-learn, HTML, CSS
 
-##  Connect
+## Connect
 - LeetCode: [bhum1i](https://leetcode.com/bhum1i)
 - Email: tbhumi.0010@gmail.com
